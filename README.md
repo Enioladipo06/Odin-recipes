@@ -1,1 +1,2 @@
 # Odin-recipes
+Well, here I am learning the basics of programming after a full course on it. Currently on git and I must say, it's been a great eye-opener learning from Odin's project. It's a refreshing time of learning, unlearning and relearning.
